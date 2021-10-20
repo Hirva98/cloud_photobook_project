@@ -1,0 +1,25 @@
+.page-title-bar-title {
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+    padding-left: 650px;
+}
+
+/* .button-placement {
+    padding-left: 10px;
+   
+} */
+.button-placement{
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+    height: 70%;
+    justify-content: center;
+    color:darkslateblue;
+}
+
+.place{
+    padding-bottom: 30px;
+    padding-left: 680px;
+    justify-content: center;
+   
+}

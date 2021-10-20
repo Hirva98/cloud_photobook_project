@@ -1,0 +1,56 @@
+
+  .button-placement{
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+    height: 70%;
+    justify-content: center;
+    color:darkslateblue;
+}
+
+.place{
+    padding-bottom: 30px;
+    padding-left: 680px;
+    justify-content: center;
+   
+}
+.App {
+    text-align: center;
+  }
+  
+  .join_text{
+    padding-bottom: 10px;
+    padding-left: 0px;
+    justify-content: center;
+  }
+  .page-title-bar-title {
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+    padding-left: 1000px;
+  }
+  
+.form_component{
+    padding-bottom: 10px;
+    padding-left: 680px;
+    justify-content: center;
+    color: darkslateblue;
+}
+.form_component2{
+    padding-bottom: 10px;
+    padding-left: 680px;
+    justify-content: center;
+}
+
+.form_submit{
+    padding-bottom: 10px;
+    padding-left: 730px;
+    justify-content: center;
+    color: darkslateblue;
+
+}
+  
+.input_style{
+    padding-bottom: 10px;
+    padding-left: 10px;
+    justify-content: center;
+}

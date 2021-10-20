@@ -1,0 +1,16 @@
+
+  .button-placement{
+    display: flex;
+    flex-direction: row;
+    width: 20%;
+    height: 70%;
+    justify-content: center;
+    color:darkslateblue;
+}
+
+.place{
+    padding-bottom: 30px;
+    padding-left: 680px;
+    justify-content: center;
+   
+}
