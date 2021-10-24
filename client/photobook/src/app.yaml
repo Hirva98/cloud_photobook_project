@@ -1,0 +1,4 @@
+runtime: nodejs10
+env_variables:
+  BUCKET_PICTURES: cloud-project-2-329420.appspot.com
+  
